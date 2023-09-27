@@ -1,6 +1,6 @@
 # Api Rest con Spring boot CRUD_MySQL
 
-****HTTP **********************************************************************************************************************************
+****HTTP *************************************************************************************************************************************
  HTTP (Hypertext Transfer Protocol) es un protocolo de comunicación utilizado para transferir datos en la web. Funciona como un protocolo cliente-servidor,
 donde el cliente envía una solicitud al servidor y este último responde con una respuesta. La comunicación entre el cliente y el servidor se realiza a través
 de mensajes HTTP, que contienen información sobre la solicitud o respuesta.
